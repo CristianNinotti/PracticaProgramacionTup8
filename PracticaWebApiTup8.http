@@ -1,0 +1,6 @@
+@PracticaWebApiTup8_HostAddress = http://localhost:5149
+
+GET {{PracticaWebApiTup8_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
